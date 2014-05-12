@@ -25,8 +25,7 @@ The UART interface is standard for THING1 with the following properties:
 - Suitable for lithium-ion battery operation 
 - Integrated onboard high efficiency & high per-formance F-antenna solution 
 - Embedded IPv4 TCP/IP stack 
-- Based on Texas Instruments CC3000 IEEE 802.11 b/g Wi-Fi solution & 
-Low Power At-mel®AVR® 8-Bit Microcontroller and High Per-formance F-antenna 
+- Based on Texas Instruments CC3000 IEEE 802.11 b/g Wi-Fi solution & Low Power At-mel®AVR® 8-Bit Microcontroller and High Per-formance F-antenna 
 - Complete platform solution including API guide, sample applications etc. 
 - Low cost
 
