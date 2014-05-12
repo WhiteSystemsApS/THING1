@@ -3,6 +3,8 @@ THING1
 
 THING1 WiFi Module Library for Arduino - http://www.white-systems.com
 
+Our Configuration application for iOS is available: https://itunes.apple.com/us/app/thing1/id846172919?mt=8
+
 THING1 Miniature Wi-Fi Module is a complete platform solution to support wireless functionality.
 Due to its small form factor and embedded TCP and UDP protocols, it is a perfect solution for Internet of Things (IoT) devices at very competent prices.
 THING1 is based on TI CC3000 Wi-Fi chip and Atmega328p – with physical dimensions of 30mmx18mm. The Wi-Fi Module is programmed and controlled with a simple ASCII command language – only 3 instructions are required to connect the device to a WiFi and start a TCP/UDP server.
