@@ -15,7 +15,7 @@ The UART interface is standard for THING1 with the following properties:
 - Stop bits: 1
 - Flow Control: None
 
- FEATURES
+FEATURES
  
 - Complete Wi-Fi platform solution - Internet of Things (IoT) with TCP and UDP server 
 - TI's SmartConfig™ technology enables simple 
